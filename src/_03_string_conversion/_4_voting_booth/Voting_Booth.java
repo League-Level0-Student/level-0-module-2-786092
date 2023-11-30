@@ -19,4 +19,5 @@ public class Voting_Booth {
 			JOptionPane.showMessageDialog(null, "Nobody cares what you think");
 		}
 	}
+	
 }
